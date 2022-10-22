@@ -10,3 +10,7 @@
           Návrh projektu je jeho. Kód je môj 😊. V Projekte som použil
           Vanilla JS s Reactom - useState a forms. 
         </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f6069e2-e6b2-45c9-bfeb-6316264abab3/deploy-status)](https://app.netlify.com/sites/8-react-project-loremgen/deploys)
+
+https://8-react-project-loremgen.netlify.app/
